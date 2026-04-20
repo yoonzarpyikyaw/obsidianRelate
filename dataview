@@ -1,9 +1,0 @@
-၁။ အခြေခံ Syntax (ရေးထုံး)
-Dataview ကို အသုံးပြုဖို့အတွက် Note တစ်ခုထဲမှာ Code block ပုံစံမျိုး ရေးရပါတယ်။ အခြေခံအားဖြင့် အပိုင်း (၄) ပိုင်း ပါဝင်ပါတယ် -
-
-```Code snippet
-TABLE field1, field2
-FROM "folder-name"
-WHERE condition
-SORT field1 ASC/DESC
-```
